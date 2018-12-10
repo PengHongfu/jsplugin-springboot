@@ -1,0 +1,16 @@
+package com.zh.jspluginspringboot;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
+
+@RunWith(SpringRunner.class)
+@SpringBootTest
+public class JspluginSpringbootApplicationTests {
+
+    @Test
+    public void contextLoads() {
+    }
+
+}
